@@ -1,2 +1,5 @@
 If your arms aren't showing up, you aren't connected to a server. To connect to a server, simply click one of the server buttons at spawn.
 Newest update: Fixed parkour, rebaked lighting(it turned out shit)
+
+
+DISCORD LINK: discord.gg/astrobis (all in lowercase)
