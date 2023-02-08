@@ -1,1 +1,2 @@
-MESSAGE OF THE DAY: made the hands bigger, and added diagonal walls to jump on!
+MESSAGE OF THE DAY: removed the "UPDATE YOUR GAME" menu, since it didn't work porperly.
+discord.gg/astrobis
