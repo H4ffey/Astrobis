@@ -1,2 +1,2 @@
-MESSAGE OF THE DAY:  Added reporting(kinda bugged atm) and a leaderboard(only shows 10 players)
+MESSAGE OF THE DAY:  Added reporting(i fixed it) and a leaderboard(only shows 10 players). I also added the gtag font and added an outline.
 discord link: discord.gg/astrobis [ALL IN LOWERCASE]
