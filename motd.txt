@@ -1,2 +1,2 @@
-MESSAGE OF THE DAY:  Added reporting(i fixed it) and a leaderboard(only shows 10 players). I also added the gtag font and added an outline.
+MESSAGE OF THE DAY: ADDED CUSTOM COLORS, GO EQUIP THEM IN THE SHOP!
 discord link: discord.gg/2TV4zeyMHQ
